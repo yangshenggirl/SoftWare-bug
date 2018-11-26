@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testPerson>
+  <test name="test1">
+    <id>1</id>
+  </test>
+  <test name="test2">
+    <id>2</id>
+  </test>
+</testPerson>

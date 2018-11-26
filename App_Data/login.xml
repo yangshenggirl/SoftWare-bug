@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<users>
+  <user role="测试人员">
+    <username>test1</username>
+    <password>123</password>
+  </user>
+  <user role="开发人员">
+    <username>pro1</username>
+    <password>123</password>
+  </user>
+  <user role="管理人员">
+    <username>manager</username>
+    <password>123</password>
+  </user>
+  <user role="开发人员">
+    <username>1</username>
+    <password>1</password>
+  </user>
+  <user role="测试人员">
+    <username>11</username>
+    <password>11</password>
+  </user>
+  <user role="开发人员">
+    <username>11</username>
+    <password>11</password>
+  </user>
+</users>

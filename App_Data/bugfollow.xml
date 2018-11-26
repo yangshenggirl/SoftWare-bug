@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bugfollow>
+  <project id="1" name="五子棋">
+    <bugTitle>需求分析错误</bugTitle>
+    <bugState>打开</bugState>
+    <degree>1</degree>
+    <dealPerson>阿晶</dealPerson>
+    <testPerson>test1</testPerson>
+  </project>
+  <project id="2" name="学生管理系统">
+    <bugTitle>界面按钮</bugTitle>
+    <bugState>处理</bugState>
+    <degree>3</degree>
+    <dealPerson>pro1</dealPerson>
+    <testPerson>test1</testPerson>
+  </project>
+  <project id="3" name="图书管理系统">
+    <bugTitle>数据溢出Q</bugTitle>
+    <bugState>接受</bugState>
+    <degree>3</degree>
+    <dealPerson>pro1</dealPerson>
+    <testPerson>test1</testPerson>
+  </project>
+</bugfollow>
